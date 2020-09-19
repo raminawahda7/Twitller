@@ -1,0 +1,18 @@
+body {
+  background-image: url("twettir.gif");
+  background-repeat: no-repeat;
+   background-size: cover;
+  display: "flex"; 
+  justify-content: "center";
+  align-items: "center"; 
+   flex-flow: "column wrap"; 
+}
+div {
+  
+  background-color: rgb(245, 12, 121);
+}
+
+#p {
+  color: rgb(60, 74, 201);
+}
+
